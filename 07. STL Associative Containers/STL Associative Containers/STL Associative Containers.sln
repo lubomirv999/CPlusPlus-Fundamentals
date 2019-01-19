@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Find Point If Inside Or Outside", "03. Find Point If Inside Or Outside\03. Find Point If Inside Or Outside.vcxproj", "{911A2914-CB30-41AE-A3AE-AB7F72970022}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Car Program", "04. Car Program\04. Car Program.vcxproj", "{A8D5941A-DFA5-448E-8E2D-12A9B2D9F200}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. Even Ood In Map", "01. Even Ood In Map\01. Even Ood In Map.vcxproj", "{5977A240-A39E-40EC-850C-67F429D16F68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Filter By Name Or Age", "02. Filter By Name Or Age\02. Filter By Name Or Age.vcxproj", "{C6F9B2B9-ECBB-414E-9731-30DF4F15A01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911A2914-CB30-41AE-A3AE-AB7F72970022}.Debug|x64.ActiveCfg = Debug|x64
+		{911A2914-CB30-41AE-A3AE-AB7F72970022}.Debug|x64.Build.0 = Debug|x64
+		{911A2914-CB30-41AE-A3AE-AB7F72970022}.Debug|x86.ActiveCfg = Debug|Win32
+		{911A2914-CB30-41AE-A3AE-AB7F72970022}.Debug|x86.Build.0 = Debug|Win32
+		{911A2914-CB30-41AE-A3AE-AB7F72970022}.Release|x64.ActiveCfg = Release|x64
+		{911A2914-CB30-41AE-A3AE-AB7F72970022}.Release|x64.Build.0 = Release|x64
+		{911A2914-CB30-41AE-A3AE-AB7F72970022}.Release|x86.ActiveCfg = Release|Win32
+		{911A2914-CB30-41AE-A3AE-AB7F72970022}.Release|x86.Build.0 = Release|Win32
+		{A8D5941A-DFA5-448E-8E2D-12A9B2D9F200}.Debug|x64.ActiveCfg = Debug|x64
+		{A8D5941A-DFA5-448E-8E2D-12A9B2D9F200}.Debug|x64.Build.0 = Debug|x64
+		{A8D5941A-DFA5-448E-8E2D-12A9B2D9F200}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8D5941A-DFA5-448E-8E2D-12A9B2D9F200}.Debug|x86.Build.0 = Debug|Win32
+		{A8D5941A-DFA5-448E-8E2D-12A9B2D9F200}.Release|x64.ActiveCfg = Release|x64
+		{A8D5941A-DFA5-448E-8E2D-12A9B2D9F200}.Release|x64.Build.0 = Release|x64
+		{A8D5941A-DFA5-448E-8E2D-12A9B2D9F200}.Release|x86.ActiveCfg = Release|Win32
+		{A8D5941A-DFA5-448E-8E2D-12A9B2D9F200}.Release|x86.Build.0 = Release|Win32
+		{5977A240-A39E-40EC-850C-67F429D16F68}.Debug|x64.ActiveCfg = Debug|x64
+		{5977A240-A39E-40EC-850C-67F429D16F68}.Debug|x64.Build.0 = Debug|x64
+		{5977A240-A39E-40EC-850C-67F429D16F68}.Debug|x86.ActiveCfg = Debug|Win32
+		{5977A240-A39E-40EC-850C-67F429D16F68}.Debug|x86.Build.0 = Debug|Win32
+		{5977A240-A39E-40EC-850C-67F429D16F68}.Release|x64.ActiveCfg = Release|x64
+		{5977A240-A39E-40EC-850C-67F429D16F68}.Release|x64.Build.0 = Release|x64
+		{5977A240-A39E-40EC-850C-67F429D16F68}.Release|x86.ActiveCfg = Release|Win32
+		{5977A240-A39E-40EC-850C-67F429D16F68}.Release|x86.Build.0 = Release|Win32
+		{C6F9B2B9-ECBB-414E-9731-30DF4F15A01B}.Debug|x64.ActiveCfg = Debug|x64
+		{C6F9B2B9-ECBB-414E-9731-30DF4F15A01B}.Debug|x64.Build.0 = Debug|x64
+		{C6F9B2B9-ECBB-414E-9731-30DF4F15A01B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6F9B2B9-ECBB-414E-9731-30DF4F15A01B}.Debug|x86.Build.0 = Debug|Win32
+		{C6F9B2B9-ECBB-414E-9731-30DF4F15A01B}.Release|x64.ActiveCfg = Release|x64
+		{C6F9B2B9-ECBB-414E-9731-30DF4F15A01B}.Release|x64.Build.0 = Release|x64
+		{C6F9B2B9-ECBB-414E-9731-30DF4F15A01B}.Release|x86.ActiveCfg = Release|Win32
+		{C6F9B2B9-ECBB-414E-9731-30DF4F15A01B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78512BC2-A51A-488D-9090-D6AE8C4882D3}
+	EndGlobalSection
+EndGlobal

@@ -9,8 +9,8 @@ using namespace std;
 
 int main()
 {
-	int numberOfElements, prod = 1;
-	cin >> numberOfElements;
+	const int numberOfElements = 3;
+	int prod = 1;
 
 	int nums[numberOfElements];
 

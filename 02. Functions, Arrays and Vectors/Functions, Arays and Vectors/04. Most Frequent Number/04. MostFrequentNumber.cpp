@@ -11,8 +11,8 @@ int main()
 {
 	int counter[] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
 
-	int numberOfElements, max = 1;
-	cin >> numberOfElements;
+	const int numberOfElements = 13;
+	int max = 1;
 
 	int nums[numberOfElements];
 

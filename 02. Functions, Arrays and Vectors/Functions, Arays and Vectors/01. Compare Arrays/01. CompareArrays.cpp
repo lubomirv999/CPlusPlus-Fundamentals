@@ -21,17 +21,13 @@ bool areEqual(int firstArr[], int firstArrSize, int secondArr[], int secondArrSi
 
 int main()
 {
-	int firstArrSize, secondArrSize;
+	const int firstArrSize = 3, secondArrSize = 3;
 
-	cin >> firstArrSize;
 	int firstArr[firstArrSize];
-
 	for (int i = 0; i < firstArrSize; i++)
 		cin >> firstArr[i];
 
-	cin >> secondArrSize;
 	int secondArr[secondArrSize];
-
 	for (int i = 0; i < secondArrSize; i++)
 		cin >> secondArr[i];
 

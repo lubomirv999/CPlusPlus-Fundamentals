@@ -9,8 +9,8 @@ using namespace std;
 
 int main()
 {
-	int numberOfElements, counter = 1, currentCounter = 1, mostFrequentElement = 0;
-	cin >> numberOfElements;
+	const int numberOfElements = 7;
+	int counter = 1, currentCounter = 1, mostFrequentElement = 0;
 
 	int nums[numberOfElements];
 

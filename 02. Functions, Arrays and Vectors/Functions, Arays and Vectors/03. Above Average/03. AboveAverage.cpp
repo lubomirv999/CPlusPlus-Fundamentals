@@ -9,8 +9,8 @@ using namespace std;
 
 int main()
 {
-	int numberOfElements, sum = 0, average = 0;
-	cin >> numberOfElements;
+	const int numberOfElements = 5;
+	int sum = 0, average = 0;
 
 	int nums[numberOfElements];
 

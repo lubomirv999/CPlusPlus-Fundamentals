@@ -9,8 +9,8 @@ using namespace std;
 
 int main()
 {
-	int numberOfElements, min = INT32_MAX;
-	cin >> numberOfElements;
+	const int numberOfElements = 5;
+	int min = INT32_MAX;
 
 	int nums[numberOfElements];
 
